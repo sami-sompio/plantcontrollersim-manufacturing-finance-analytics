@@ -97,3 +97,25 @@ Document variance formulas explicitly
 Add semantic model relationship map
 
 Add controller commentary template
+
+## Reporting Output – Power BI Layer
+
+The following screenshots demonstrate the final controller-grade reporting layer built on top of the SQL transformation logic.
+
+### 1. Management P&L
+![Management P&L](images/01-management-pnl.png)
+
+### 2. Inventory Bridge
+![Inventory Bridge](images/02-inventory-bridge.png)
+
+### 3. Working Capital Dashboard
+![Working Capital](images/03-working-capital.png)
+
+### 4. CAPEX and Depreciation
+![CAPEX and Depreciation](images/04-capex-depreciation.png)
+
+### 5. Warranty Rollforward
+![Warranty Rollforward](images/05-warranty-rollforward.png)
+
+### 6. Close Governance and Control
+![Close Governance](images/06-close-governance-control.png)
