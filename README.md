@@ -125,3 +125,15 @@ Implements reserve accounting logic including accrual, utilization and ending ob
 ### 6. Close Governance and Control
 Demonstrates automated reconciliation checks across inventory, working capital and warranty layers to validate monthly close completeness.
 ![Close Governance](images/06-close-governance-control.png)
+
+Key Competencies Demonstrated
+
+• Manufacturing cost accounting and absorption logic
+• Detailed variance decomposition design
+• Inventory and WIP reconciliation modeling
+• Working capital simulation and NWC validation
+• Fixed asset and depreciation rollforward logic
+• Warranty reserve accounting framework
+• Financial close governance and control design
+• Star schema modeling and semantic layer discipline
+• End to end SQL transformation to Power BI reporting architecture
