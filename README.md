@@ -103,19 +103,25 @@ Add controller commentary template
 The following screenshots demonstrate the final controller-grade reporting layer built on top of the SQL transformation logic.
 
 ### 1. Management P&L
+Demonstrates full absorption costing logic including standard COGS, detailed manufacturing variance decomposition, and final EBIT reconciliation.
 ![Management P&L](images/01-management-pnl.png)
 
 ### 2. Inventory Bridge
+Reconciles opening inventory, operational movements and ending balances. Validates production absorption and inventory valuation impact on profitability.
 ![Inventory Bridge](images/02-inventory-bridge.png)
 
 ### 3. Working Capital Dashboard
+Simulates AR, AP and inventory exposure with reconciliation controls ensuring balance sheet integrity and NWC validation.
 ![Working Capital](images/03-working-capital.png)
 
 ### 4. CAPEX and Depreciation
+Models capital investment, useful life allocation and monthly depreciation impact on P&L with fixed asset rollforward logic.
 ![CAPEX and Depreciation](images/04-capex-depreciation.png)
 
 ### 5. Warranty Rollforward
+Implements reserve accounting logic including accrual, utilization and ending obligation reconciliation.
 ![Warranty Rollforward](images/05-warranty-rollforward.png)
 
 ### 6. Close Governance and Control
+Demonstrates automated reconciliation checks across inventory, working capital and warranty layers to validate monthly close completeness.
 ![Close Governance](images/06-close-governance-control.png)
