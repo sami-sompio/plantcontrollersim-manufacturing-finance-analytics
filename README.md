@@ -67,6 +67,11 @@ Reporting screenshots
 playbook
 Monthly close documentation and control framework
 
+## Documentation
+
+- Architecture overview: docs/architecture-overview.md
+- Semantic layer measures: semantic-layer/measure-documentation.md
+
 Key Capabilities Demonstrated
 
 Dimensional modeling discipline
